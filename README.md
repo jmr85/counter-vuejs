@@ -9,13 +9,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/jmr85/contador-vuejs.git
+  git clone https://github.com/jmr85/counter-vuejs.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd contador-vuejs
+  cd counter-vuejs
 ```
 
 Run with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
