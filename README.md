@@ -1,4 +1,4 @@
-# clase 3 vuejs - To do list
+# VueJS - Counter
 
 ## Autores ✒️
 
